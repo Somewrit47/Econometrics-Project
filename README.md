@@ -1,1 +1,2 @@
-# Econometrics-Project
+# Econometrics-Project ( Indian Institute of Foreign Trade | Somewrit Sekhar Maiti - 47 )
+ Does Smoking affect Health Premium Payments? & Does Gender Play a Role in Premium Charges paid by the Customer? Introduction - In this Project I Analyzed the effects of smoking habits in individuals and whether gender plays a role in determining the insurance premiums, Collected Data Set from Archives of University of Florida USA and Conducted Research. [Steps Performed - Linearity Check | Normality Check | Multicollinearity Check | Influence Analysis | Hypothesis Testing | Conclusion ]
